@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Pickermon Test Ex",
+    "icon": "./src/img/app-icon.png",
+    "version": "1.0.0",
+    "slug": "pickermon-test",
+    "sdkVersion": "17.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
